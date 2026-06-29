@@ -9,7 +9,7 @@ class Prism < Formula
   homepage "https://github.com/sdiehl/prism"
   url "https://github.com/sdiehl/prism/releases/download/v0.3.0/prism-0.3.0-aarch64-apple-darwin.tar.gz"
   version "0.3.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "e6eaed5418d6cdc7c16aa03f1c4ca8d156d1bfb5b6ef3379962f606c5461578e"
   license "MIT"
 
   # Ships an Apple Silicon binary only for now.
