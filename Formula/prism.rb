@@ -7,9 +7,9 @@
 class Prism < Formula
   desc "Effect-typed functional language with a call-by-push-value core, via LLVM"
   homepage "https://github.com/sdiehl/prism"
-  url "https://github.com/sdiehl/prism/releases/download/v0.4.0/prism-0.4.0-aarch64-apple-darwin.tar.gz"
-  version "0.4.0"
-  sha256 "5b60faad667ab828dbcd6c6f14d0c4400cc5e1c07efa4d5bf7e685e672f91471"
+  url "https://github.com/sdiehl/prism/releases/download/v0.5.0/prism-0.5.0-aarch64-apple-darwin.tar.gz"
+  version "0.5.0"
+  sha256 "c9fa421710d5f3e47e3a5ddb62d66cb51db9250b5e9e16adca716e93f87f5fcc"
   license "MIT"
 
   # Ships an Apple Silicon binary only for now.
